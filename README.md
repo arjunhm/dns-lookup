@@ -3,7 +3,9 @@
 ## Installation
 
 Install the necessary packages by running  
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ## Configuration
 
@@ -18,12 +20,15 @@ Copy the contents of this file to `zones/dns.json`
 ## Usage
 
 Start the DNS server by running  
-`sudo python dns.py`  
+```
+sudo python dns.py
+```  
 The `sudo` command is required since the program's UDP socket will be running on the reserved port 53.  
 
 Open the terminal and run the `dig` command  
 `dig <domain> @127.0.0.1`  
 `dig <record-type> <domain> @127.0.0.1`  
+
 Example: `dig google.com @127.0.0.1`  
 Example: `dig MX google.com @127.0.0.1`  
 
