@@ -1,0 +1,125 @@
+{
+    "microsoft.com.": [
+        {
+            "name": "microsoft.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "20.84.181.62"
+        },
+        {
+            "name": "microsoft.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "20.103.85.33"
+        },
+        {
+            "name": "microsoft.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "20.53.203.50"
+        },
+        {
+            "name": "microsoft.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "20.112.52.29"
+        },
+        {
+            "name": "microsoft.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "20.81.111.85"
+        }
+    ],
+    "google.com.": [
+        {
+            "name": "google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "MX",
+            "value": "10 smtp.google.com."
+        },
+        {
+            "name": "google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "142.251.32.110"
+        },
+        {
+            "name": "google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "MX",
+            "value": "10 smtp.google.com."
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "142.251.167.27"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "172.253.115.26"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "172.253.115.27"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "172.253.122.27"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "A",
+            "value": "172.253.122.26"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "AAAA",
+            "value": "2607:f8b0:4004:c1d::1b"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "AAAA",
+            "value": "2607:f8b0:4004:c06::1a"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "AAAA",
+            "value": "2607:f8b0:4004:c06::1b"
+        },
+        {
+            "name": "smtp.google.com.",
+            "ttl": "0",
+            "class": "IN",
+            "type": "AAAA",
+            "value": "2607:f8b0:4004:c09::1a"
+        }
+    ]
+}
